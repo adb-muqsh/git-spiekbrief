@@ -15,3 +15,8 @@ slecht voorbeeld: "aanpassing". Dit is slecht omdat je niet weet wat er verander
 ## 3. Gitignore
 
 Gitignore zorgt ervoor dat bepaalde bestanden niet worden bijgehouden door Git.
+
+## 4. Pull
+
+de zin die ik in mijn github.com had geschreven kwam tevoorschijn in README.md.
+en je kan best pullen om te kijken of iemand aanpassingen heeft gedaan anders kan het verloren geraken.
