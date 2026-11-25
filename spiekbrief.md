@@ -1,4 +1,4 @@
-# spiekbrief Git en Github
+# Spiekbrief Git en GitHub, versie van de website
 ## 1. clone, commit push en pull
 
 een clone is een online repository naar je computer kopieren.
