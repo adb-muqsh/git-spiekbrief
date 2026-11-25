@@ -25,3 +25,11 @@ en je kan best pullen om te kijken of iemand aanpassingen heeft gedaan anders ka
 
 de commit word niet verwijderd omdat github niet weet of het een fout was en pusht het gewoon
 
+## 6. Branches en pull requests
+
+-een branch is eigenlijk een niuewe tak in je resporitory 
+
+-de main is de hoofdbranch. Je maakt nieuwe aanpassingen eerst in een aparte branch.
+dus kan de main proper en bruikbaar blijven
+
+-een pull request is een voorstel om de wijzigingen uit je branch samen te voegen met main
