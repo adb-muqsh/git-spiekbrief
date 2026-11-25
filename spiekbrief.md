@@ -1,3 +1,6 @@
+# spiekbrief Git en Github
+## 1. clone, commit push en pull
+
 een clone is een online repository naar je computer kopieren.
 een Commit is een wijziging opslaan in de geschiedenis.
 met een Push  kan je je wijzigingen van je computer naar GitHub sturen.
